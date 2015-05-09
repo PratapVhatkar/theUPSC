@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IAS Prelim 2015</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7583084659008726/5733376418</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_final">FinalActivity</string>
+    <string name="RequestString"> Help us to buy new server space by tapping on fullscreen and banner Ads. your one click can make large difference.</string>
+    <string name="your_ticker" />
+
+
+</resources>
